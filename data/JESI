@@ -1,0 +1,285 @@
+OBJECTID,zip,jesicategory,jesipctl,jesirank,famcategory,fampctl,prevencategory,prevenpctl,housecategory,housepctl,healthcategory,healthpctl,behavioralhealthservices,physicalhealthservices,totalhealthservices,neighborhood,sup_dist,spa,csa,SHAPE_Length,SHAPE_Area
+1,91210,Lowest,0,277,Lowest,0,Lowest,0,Lowest,0,Lowest,0,0,0,0,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,6587.80638831624,1601445.51895047
+2,90095,Lowest,0,277,Lowest,0,Lowest,0,Lowest,0,Lowest,0,0,0,0,Westwood,District 3,SPA 5 - West,Los Angeles - Westwood,13510.4433259241,9051777.03044315
+3,93544,Lowest,0,277,Lowest,0,Lowest,0,Lowest,0,Lowest,0,0,0,0,Northeast Antelope Valley,District 5,SPA 1 - Antelope Valley,Unincorporated - Llano,353049.180936635,2659728232.99455
+4,91330,Lowest,0,277,Lowest,0,Lowest,0,Lowest,0,Lowest,0,0,0,0,Northridge,District 3,SPA 2 - San Fernando,Los Angeles - Northridge,23284.7465468323,15272040.0185681
+5,90270,Lowest,1.4,276,Lowest,15.8,Lowest,0,Lowest,0,Lowest,0,0,0,0,Maywood,District 4,SPA 7 - East,City of Maywood,30409.0696540323,33089327.4749039
+6,90631,Lowest,1.8,275,Lowest,19,Lowest,0,Lowest,0,Lowest,0,0,0,0,La Habra Heights,District 4,SPA 7 - East,City of La Habra Heights,74809.7350411639,178096227.671778
+7,91775,Lowest,2.2,274,Lowest,0,Low,25.1,Lowest,0,Lowest,0,0,0,0,East San Gabriel,District 5,SPA 3 - San Gabriel,Unincorporated - Northeast San Gabriel,59531.2200253268,85444314.889412
+8,91746,Lowest,2.5,273,Lowest,7.1999998,Low,21.1,Lowest,0,Lowest,0,0,0,0,Industry,District 1,SPA 3 - San Gabriel,Unincorporated - Avocado Heights,115518.409464067,179303818.431654
+9,90280,Lowest,2.9000001,272,Lowest,3.2,Lowest,17.200001,Lowest,0,Lowest,18.6,1,0,1,South Gate,District 4,SPA 7 - East,City of South Gate,104415.466538653,209519145.471605
+10,91792,Lowest,3.2,271,Lowest,6.5,Low,33.700001,Lowest,0,Lowest,0,0,0,0,West Covina,District 1,SPA 3 - San Gabriel,City of West Covina,77710.4848712532,107174580.160685
+11,90660,Lowest,3.5999999,270,Lowest,4.6999998,Lowest,13.3,Low,22.6,Lowest,0,0,0,0,Pico Rivera,District 4,SPA 7 - East,City of Pico Rivera,105083.38270797,264888719.985848
+12,90402,Lowest,3.9000001,269,Moderate,40.900002,Lowest,0,Lowest,0,Lowest,0,0,0,0,Santa Monica,District 3,SPA 5 - West,City of Santa Monica,49898.0548416953,54261005.7729725
+13,91384,Lowest,4.3000002,268,Lowest,3.9000001,Lowest,0,Low,38.400002,Lowest,0,0,0,0,Ridge Route,District 5,SPA 2 - San Fernando,Unincorporated - Castaic,459843.641629381,4655489366.95812
+14,90606,Lowest,4.6999998,267,Lowest,2.9000001,Lowest,0,Lowest,0,Moderate,42.299999,2,0,2,West Whittier-Los Nietos,District 4,SPA 7 - East,Unincorporated - West Whittier/Los Nietos,66310.9774810959,104411497.818
+15,93591,Lowest,5,266,Moderate,45.5,Lowest,0,Lowest,0,Lowest,0,0,0,0,Northeast Antelope Valley,District 5,SPA 1 - Antelope Valley,Unincorporated - Hi Vista,426758.890686985,2604198534.28223
+16,90713,Lowest,5.4000001,265,Lowest,14.3,Low,35.5,Lowest,0,Lowest,0,0,0,0,Lakewood,District 4,SPA 7 - East,City of Lakewood,47619.8315701836,97324248.9699949
+17,90063,Lowest,5.6999998,264,Lowest,11.5,Lowest,15.8,Low,25.1,Lowest,0,0,0,0,East Los Angeles,District 1,SPA 7 - East,Unincorporated - East Los Angeles,54052.1446986344,93436950.5734989
+18,90604,Lowest,6.0999999,263,Lowest,8.1999998,Moderate,45.5,Lowest,0,Lowest,0,0,0,0,South Whittier,District 4,SPA 7 - East,Unincorporated - South Whittier,71711.5367240445,118482080.783142
+19,91732,Lowest,6.5,262,Lowest,12.2,Lowest,0,Low,22.9,Lowest,19.4,0,1,1,El Monte,District 1,SPA 3 - San Gabriel,City of El Monte,79277.7931542506,139826426.547972
+20,91702,Lowest,6.8000002,261,Lowest,6.8000002,Low,34.400002,Lowest,0,Lowest,19.700001,0,1,1,Angeles Crest,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,297423.522558598,1640834647.41994
+21,91501,Lowest,7.1999998,260,Low,33,Low,29,Lowest,0,Lowest,0,0,0,0,Burbank,District 5,SPA 2 - San Fernando,City of Burbank,61337.3112079804,125232576.084722
+22,90023,Lowest,7.5,259,Lowest,14.7,Lowest,0,Low,27.200001,Low,21.9,1,0,1,Boyle Heights,District 1,SPA 4 - Metro,Los Angeles - Boyle Heights,78312.7720129592,159187525.50085
+23,91304,Lowest,7.9000001,257,Low,29,Lowest,14.3,Lowest,0,Low,20.799999,0,1,1,West Hills,District 3,SPA 2 - San Fernando,Los Angeles - West Hills,92738.9350067033,264974301.73771
+24,93510,Lowest,7.9000001,257,High,64.199997,Lowest,0,Lowest,0,Lowest,0,0,0,0,Tujunga Canyons,District 5,SPA 1 - Antelope Valley,Unincorporated - Acton,306567.711169192,2217365743.45356
+25,91755,Lowest,8.6000004,256,Low,29.700001,Lowest,0,Low,39.799999,Lowest,0,0,0,0,Monterey Park,District 1,SPA 3 - San Gabriel,City of Monterey Park,60163.6444568871,86913154.1712901
+26,90001,Lowest,9,255,Lowest,3.5999999,Moderate,47.700001,Lowest,0,Low,20.1,1,0,1,Florence-Firestone,District 2,SPA 6 - South,Unincorporated - Florence-Firestone,48677.2841117441,95563422.6196999
+27,90262,Lowest,9.3000002,254,Lowest,10,Lowest,12.5,Lowest,0,Moderate,50.200001,2,1,3,Lynwood,District 4,SPA 6 - South,City of Lynwood,77669.7118184104,137311620.254691
+28,91744,Lowest,9.6999998,252,Lowest,15.1,Lowest,0,Low,21.9,Moderate,40.900002,2,1,3,La Puente,District 1,SPA 3 - San Gabriel,City of Industry,114910.4955859,248831103.172212
+29,90065,Lowest,9.6999998,252,Lowest,0,Moderate,56.299999,Lowest,0,Low,21.5,0,1,1,Glassell Park,District 1,SPA 4 - Metro,Los Angeles - Glassell Park,83157.7116841086,145389961.066994
+30,90650,Lowest,10.4,251,Low,26.9,Lowest,16.1,Low,21.5,Lowest,18.299999,1,0,1,Norwalk,District 4,SPA 7 - East,City of Norwalk,92732.557472233,271565861.139785
+31,90201,Lowest,10.8,250,Lowest,9,Lowest,12.2,Low,25.799999,Low,36.900002,0,2,2,Bell,District 4,SPA 7 - East,City of Bell,91501.7088980643,175806986.29588
+32,90032,Lowest,11.1,249,Lowest,14,Low,25.4,Low,26.5,Low,21.1,0,1,1,El Sereno,District 1,SPA 4 - Metro,Los Angeles - El Sereno,66300.1579429423,140227887.768086
+33,90605,Lowest,11.5,248,Lowest,5,Low,28.700001,Low,29.4,Low,24.4,1,0,1,Whittier,District 4,SPA 7 - East,City of Whittier,135634.239505087,173199715.49427
+34,91748,Lowest,11.8,247,Low,21.5,Lowest,17.6,Low,27.6,Low,22.6,0,1,1,Rowland Heights,District 1,SPA 3 - San Gabriel,Unincorporated - Rowland Heights,108045.52868303,316178228.88173
+35,90058,Lowest,12.2,246,Lowest,0,Lowest,0,Highest,90.300003,Lowest,0,0,0,0,Vernon,District 4,SPA 7 - East,City of Vernon,92632.0201223795,131647616.436232
+36,93553,Lowest,12.5,245,Highest,91,Lowest,0,Lowest,0,Lowest,0,0,0,0,Southeast Antelope Valley,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,304651.796174585,1590362325.71716
+37,91352,Lowest,12.9,244,Low,31.9,Low,26.5,Lowest,0,Low,33.299999,0,2,2,Shadow Hills,District 5,SPA 2 - San Fernando,Los Angeles - Sun Valley,162985.711958314,415419183.881653
+38,93543,Lowest,13.3,243,Moderate,56.299999,Low,35.799999,Lowest,0,Lowest,0,0,0,0,Southeast Antelope Valley,District 5,SPA 1 - Antelope Valley,Unincorporated - Littlerock/Juniper Hills,317055.121305199,2031258354.255
+39,91706,Lowest,13.6,241,Lowest,13.6,Low,24.4,Low,30.1,Low,24.700001,2,0,2,Irwindale,District 1,SPA 3 - San Gabriel,City of Baldwin Park,126745.002701796,413467927.995385
+40,91402,Lowest,13.6,241,Lowest,9.6999998,Low,25.799999,Lowest,0,Moderate,57.299999,2,3,5,Panorama City,District 3,SPA 2 - San Fernando,Los Angeles - Panorama City,57693.8227855706,104046193.023266
+41,90744,Lowest,14.3,240,Lowest,7.9000001,Low,35.099998,Lowest,0,Moderate,50.900002,1,1,2,Wilmington,District 4,SPA 8 - South Bay,Los Angeles - Wilmington,92694.9205878588,243298152.940554
+42,91214,Lowest,14.7,239,Moderate,41.200001,Lowest,0,Moderate,54.099998,Lowest,0,0,0,0,Glendale,District 5,SPA 2 - San Fernando,Unincorporated - La Crescenta-Montrose,85515.1841577412,243895407.643192
+43,91780,Lowest,15.1,238,Lowest,5.6999998,Lowest,18.6,Low,31.9,Low,39.799999,1,1,2,Temple City,District 5,SPA 3 - San Gabriel,City of Temple City,67491.9696095125,106549079.598244
+44,90723,Lowest,15.4,237,Lowest,19.4,Low,31.5,Lowest,0,Moderate,45.900002,1,1,2,Paramount,District 4,SPA 6 - South,City of Paramount,62962.7458961977,136327847.129786
+45,91008,Lowest,15.8,236,Lowest,0,Highest,98.599998,Lowest,0,Lowest,0,0,0,0,Bradbury,District 5,SPA 3 - San Gabriel,City of Bradbury,43157.5442243762,56392343.324099
+46,90716,Lowest,16.1,235,Low,36.200001,High,62.700001,Lowest,0,Lowest,0,0,0,0,Hawaiian Gardens,District 4,SPA 7 - East,City of Hawaiian Gardens,25964.8979050234,26594515.1847285
+47,91790,Lowest,16.5,234,Low,24,Low,26.9,Low,28,Low,23.299999,0,1,1,West Covina,District 1,SPA 3 - San Gabriel,City of West Covina,89120.3302188633,161400638.934721
+48,90638,Lowest,16.799999,233,Low,20.4,Low,33,Moderate,51.599998,Lowest,0,0,0,0,La Mirada,District 4,SPA 7 - East,City of La Mirada,91812.3115652971,215212056.206955
+49,91803,Lowest,17.200001,231,Moderate,46.200001,Low,21.5,Low,37.599998,Lowest,0,0,0,0,Alhambra,District 1,SPA 3 - San Gabriel,City of Alhambra,53937.9015091588,89705294.5686064
+50,91390,Lowest,17.200001,231,Low,25.1,Highest,80.300003,Lowest,0,Lowest,0,0,0,0,Castaic Canyons,District 5,SPA 2 - San Fernando,Unincorporated - San Francisquito Canyon/Bouquet Canyon,574958.482785081,6598046597.93802
+51,91606,Lowest,17.9,230,Moderate,43,Lowest,0,Low,28.299999,Low,35.099998,1,1,2,North Hollywood,District 3,SPA 2 - San Fernando,Los Angeles - North Hollywood,56311.709748212,91562109.1523733
+52,91791,Lowest,18.299999,229,Low,33.700001,Lowest,0,Low,33,Moderate,40.5,1,0,1,West Covina,District 1,SPA 3 - San Gabriel,City of West Covina,92119.3179011124,183942730.598815
+53,93552,Lowest,18.6,228,Lowest,12.9,Low,37.599998,Moderate,57.700001,Lowest,0,0,0,0,Palmdale,District 5,SPA 1 - Antelope Valley,City of Palmdale,283082.970943963,1905737025.68106
+54,90255,Lowest,19,227,Lowest,7.5,Lowest,18.299999,Low,22.200001,High,61.599998,1,5,6,Huntington Park,District 4,SPA 7 - East,City of Huntington Park,72266.7614644841,103927470.332935
+55,90222,Lowest,19.4,226,Low,34.099998,Moderate,42.700001,Low,33.299999,Lowest,0,0,0,0,Compton,District 2,SPA 6 - South,Unincorporated - Willowbrook,45326.19836976,71883495.9141927
+56,90240,Lowest,19.700001,225,Lowest,16.1,Low,23.299999,Moderate,40.099998,Low,31.200001,1,0,1,Downey,District 4,SPA 7 - East,City of Downey,54224.3254484408,86107386.6377227
+57,91741,Low,20.1,224,Lowest,16.5,Low,38.700001,Lowest,0,Moderate,58.099998,2,1,3,Glendora,District 5,SPA 3 - San Gabriel,City of Glendora,134791.87122013,655310569.996363
+58,90715,Low,20.4,223,Low,32.299999,Moderate,47.299999,Lowest,0,Low,36.200001,1,0,1,Lakewood,District 4,SPA 7 - East,City of Lakewood,41993.9534353265,47788244.8791167
+59,91340,Low,20.799999,222,Lowest,19.700001,Lowest,19,Lowest,0,High,78.099998,0,2,2,San Fernando,District 3,SPA 2 - San Fernando,City of San Fernando,56015.0924543587,97073132.8401847
+60,91745,Low,21.1,221,Lowest,5.4000001,Moderate,43.700001,Moderate,48,Low,20.4,1,0,1,Hacienda Heights,District 1,SPA 3 - San Gabriel,Unincorporated - Hacienda Heights,124242.3702008,405232506.27489
+61,91306,Low,21.5,220,Moderate,42.299999,Lowest,16.799999,Low,26.200001,Low,33,2,0,2,Winnetka,District 3,SPA 2 - San Fernando,Los Angeles - Winnetka,54949.3842919914,115739892.324442
+62,91722,Low,21.9,219,Lowest,6.0999999,Low,31.9,Lowest,0,Highest,81,0,3,3,Covina,District 1,SPA 3 - San Gabriel,City of Covina,83310.5794961173,114672159.329154
+63,90011,Low,22.200001,218,Low,24.4,Lowest,14.7,Low,24.4,Moderate,59.099998,3,2,5,Central-Alameda,District 2,SPA 6 - South,Los Angeles - Vernon Central,57120.0712221672,119579569.909804
+64,90745,Low,22.6,216,Moderate,44.400002,Moderate,49.799999,Lowest,0,Low,28.700001,2,0,2,Carson,District 2,SPA 8 - South Bay,City of Carson,81937.2540581849,244127065.956039
+65,90732,Low,22.6,216,Moderate,58.400002,Lowest,0,High,64.5,Lowest,0,0,0,0,San Pedro,District 4,SPA 8 - South Bay,Los Angeles - San Pedro,86523.2493901804,88612964.0193369
+66,91405,Low,23.299999,215,Lowest,15.4,Lowest,14,Low,39.099998,Moderate,57,1,2,3,Van Nuys,District 3,SPA 2 - San Fernando,Los Angeles - Van Nuys,49011.2258242447,92209279.1307831
+67,90717,Low,23.700001,213,Lowest,4.3000002,Low,27.6,Moderate,42.700001,Moderate,52.299999,1,0,1,Lomita,District 4,SPA 8 - South Bay,City of Lomita,46940.8228019607,54856776.6597825
+68,90293,Low,23.700001,213,Highest,80.599998,Lowest,0,Lowest,0,Moderate,46.200001,1,0,1,Playa del Rey,District 2,SPA 5 - West,Los Angeles - Westchester,56892.4114627934,52241418.6282445
+69,91381,Low,24.4,212,Lowest,13.3,High,78.900002,Lowest,0,Low,37.299999,1,0,1,Unincorporated Santa Susana Mountains,District 5,SPA 2 - San Fernando,Unincorporated - Stevenson Ranch,175729.576162496,766642727.940506
+70,91020,Low,24.700001,211,Low,38.700001,Lowest,0,Lowest,0,Highest,91,0,1,1,La Crescenta-Montrose,District 5,SPA 2 - San Fernando,Unincorporated - La Crescenta-Montrose,28301.8125082079,20468367.9143994
+71,90603,Low,25.1,210,Lowest,12.5,Low,28.299999,Lowest,0,Highest,90,1,2,3,Whittier,District 4,SPA 7 - East,City of Whittier,80646.7676207442,86393252.4441777
+72,91202,Low,25.4,208,Moderate,40.5,Lowest,0,Moderate,41.599998,Moderate,49.5,1,1,2,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,41425.6657736583,62648792.600401
+73,91740,Low,25.4,208,High,64.5,Low,37.299999,Lowest,0,Low,29.700001,0,1,1,Glendora,District 5,SPA 3 - San Gabriel,City of Glendora,67672.6862758978,140126958.02273
+74,90003,Low,26.200001,207,Lowest,11.1,Moderate,49.5,High,71,Lowest,0,0,0,0,Florence,District 2,SPA 6 - South,Los Angeles - Florence-Firestone,63303.4876457997,102643146.015764
+75,91326,Low,26.5,206,Moderate,51.299999,Moderate,41.200001,Lowest,0,Low,39.400002,2,0,2,Porter Ranch,District 3,SPA 2 - San Fernando,Los Angeles - Porter Ranch,106374.199784809,311973859.942943
+76,91770,Low,26.9,204,Low,37.599998,Lowest,13.6,Low,23.299999,Moderate,57.700001,2,2,4,Rosemead,District 1,SPA 3 - San Gabriel,City of Rosemead,88629.6843742201,181762234.982686
+77,90039,Low,26.9,204,High,65.199997,Lowest,0,High,67,Lowest,0,0,0,0,Atwater Village,District 1,SPA 4 - Metro,Los Angeles - Atwater Village,69937.0709991986,113014250.029154
+78,90805,Low,27.6,202,Low,30.5,Moderate,48.700001,Low,26.9,Low,26.9,2,1,3,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,73017.6896493653,208385102.354829
+79,90504,Low,27.6,202,Low,28.299999,Lowest,19.700001,Low,33.700001,Moderate,51.299999,1,1,2,Torrance,District 4,SPA 8 - South Bay,City of Torrance,52890.133211997,107762276.095969
+80,93550,Low,28.299999,201,Low,32.599998,Low,39.799999,Low,30.5,Low,32.299999,3,0,3,Angeles Crest,District 5,SPA 1 - Antelope Valley,Unincorporated - Angeles National Forest,496142.326823276,4497845904.70629
+81,91321,Low,28.700001,200,Low,22.9,High,72,Lowest,0,Moderate,41.599998,2,0,2,Santa Clarita,District 5,SPA 2 - San Fernando,City of Santa Clarita,227772.121707556,756479514.194537
+82,90706,Low,29,199,Lowest,16.799999,Low,29.700001,Moderate,53.799999,Low,38,2,1,3,Bellflower,District 4,SPA 7 - East,City of Bellflower,59208.1635085761,171785379.523201
+83,91331,Low,29.4,198,Low,26.5,Lowest,19.4,Moderate,40.5,Moderate,52.700001,6,1,7,Pacoima,District 3,SPA 2 - San Fernando,Los Angeles - Pacoima,87577.3794517822,237080092.657627
+84,91106,Low,29.700001,197,High,68.800003,Lowest,0,High,72,Lowest,0,0,0,0,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,75164.3810024229,78534724.3588114
+85,91351,Low,30.1,196,Lowest,18.6,Moderate,44.799999,Low,35.099998,Moderate,42.700001,2,0,2,Santa Clarita,District 5,SPA 2 - San Fernando,City of Santa Clarita,143635.652115614,275803173.707379
+86,93536,Low,30.5,195,Low,20.799999,Low,36.900002,High,66.699997,Lowest,19,1,0,1,Northwest Antelope Valley,District 5,SPA 1 - Antelope Valley,Unincorporated - West Antelope Valley,630966.201219762,7768525970.49207
+87,90002,Low,30.799999,194,Low,21.1,Low,22.6,Low,39.400002,High,60.200001,1,1,2,Watts,District 2,SPA 6 - South,Los Angeles - Watts,44972.0219241877,82752242.1103022
+88,91343,Low,31.200001,193,Low,29.4,Low,38.400002,Low,34.099998,Moderate,41.900002,0,1,1,North Hills,District 3,SPA 2 - San Fernando,Los Angeles - North Hills,64622.422470311,159193638.01184
+89,91768,Low,31.5,192,Low,27.200001,High,68.5,Moderate,48.700001,Lowest,0,0,0,0,Pomona,District 1,SPA 3 - San Gabriel,City of Pomona,101774.951658125,208656378.277803
+90,91042,Low,31.9,191,Low,21.9,Low,22.9,High,69.5,Low,30.5,0,1,1,Tujunga Canyons,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,227474.667492022,1409500227.42546
+91,90068,Low,32.299999,190,Highest,84.199997,High,61.299999,Lowest,0,Lowest,0,0,0,0,Hollywood Hills,District 5,SPA 4 - Metro,Los Angeles - Hollywood Hills,86280.1779786414,205592910.523282
+92,90094,Low,32.599998,189,High,71.699997,High,74.199997,Lowest,0,Lowest,0,0,0,0,Playa Vista,District 2,SPA 5 - West,Los Angeles - Playa Vista,49434.6036772424,33728283.9102244
+93,91307,Low,33,188,Moderate,59.099998,Moderate,54.5,Lowest,0,Low,32.599998,1,0,1,West Hills,District 3,SPA 2 - San Fernando,Los Angeles - West Hills,54676.342346645,124165131.532649
+94,90670,Low,33.299999,187,Highest,89.199997,Lowest,0,Lowest,0,Moderate,58.400002,2,0,2,Santa Fe Springs,District 4,SPA 7 - East,City of Santa Fe Springs,136070.131620007,238348800.9755
+95,90808,Low,33.700001,186,Low,23.299999,Moderate,48,Low,29.700001,Moderate,48,1,1,2,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,74753.3070244971,188840520.391046
+96,91206,Low,34.099998,185,Moderate,45.200001,Lowest,0,Low,32.599998,High,71.300003,0,4,4,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,85276.0430684393,168696480.262614
+97,90042,Low,34.400002,184,Low,26.200001,Low,20.799999,Low,23.700001,Highest,80.300003,3,4,7,Highland Park,District 1,SPA 4 - Metro,Los Angeles - Highland Park,69418.514435665,126051550.521079
+98,91342,Low,34.799999,182,Lowest,9.3000002,Low,30.1,Moderate,57,Moderate,55.599998,3,1,4,Tujunga Canyons,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,303315.65728414,1816661615.62803
+99,91411,Low,34.799999,182,Lowest,17.6,High,65.599998,Lowest,0,High,68.800003,0,1,1,Van Nuys,District 3,SPA 2 - San Fernando,Los Angeles - Sherman Oaks,43997.8493438951,53713786.9083868
+100,91801,Low,35.5,181,Low,36.599998,Low,30.799999,Moderate,56.599998,Low,30.1,0,2,2,Alhambra,District 1,SPA 3 - San Gabriel,City of Alhambra,68390.9379112978,120767505.630163
+101,91335,Low,35.799999,180,Lowest,18.299999,Low,22.200001,Moderate,52,High,62.400002,2,3,5,Reseda,District 3,SPA 2 - San Fernando,Los Angeles - Reseda,59869.8275193721,182517613.783847
+102,91344,Low,36.200001,178,Low,35.099998,Lowest,15.4,Moderate,58.400002,Moderate,47.299999,1,3,4,Granada Hills,District 3,SPA 2 - San Fernando,Los Angeles - Granada Hills,97884.902396302,398434190.053086
+103,91767,Low,36.200001,178,Moderate,44.799999,Low,24,Low,25.4,High,62,2,1,3,Pomona,District 1,SPA 3 - San Gabriel,City of Pomona,81779.0965014452,158861347.880021
+104,90006,Low,36.900002,177,Moderate,47.299999,Moderate,41.599998,Low,24,Moderate,44.099998,1,2,3,Pico-Union,District 2,SPA 4 - Metro,Los Angeles - Koreatown,37832.4591061684,53703674.3930059
+105,90303,Low,37.299999,176,Lowest,10.8,Highest,82.800003,High,64.199997,Lowest,0,0,0,0,Inglewood,District 2,SPA 8 - South Bay,City of Inglewood,38418.3120627614,55672415.564916
+106,90037,Low,37.599998,175,Low,22.6,Lowest,12.9,High,75.599998,Moderate,47,1,1,2,Vermont Square,District 2,SPA 6 - South,Los Angeles - West Vernon,48129.4357599866,81432316.185744
+107,91733,Low,38,174,Low,28,Lowest,17.9,High,79.199997,Low,33.700001,1,1,2,South El Monte,District 1,SPA 3 - San Gabriel,City of South El Monte,70074.3565641656,171378413.253574
+108,91325,Low,38.400002,173,Moderate,55.599998,Low,30.5,Moderate,47.700001,Low,25.4,0,1,1,Northridge,District 3,SPA 2 - San Fernando,Los Angeles - Northridge,98047.2641372707,133846125.723117
+109,90061,Low,38.700001,172,High,63.099998,Low,20.4,Low,36.599998,Moderate,43.400002,1,0,1,Willowbrook,District 2,SPA 6 - South,Unincorporated - Athens Village,52266.4950275772,76648946.1891915
+110,90247,Low,39.099998,171,Low,38.400002,Moderate,50.5,Moderate,53.400002,Low,22.9,1,0,1,Gardena,District 2,SPA 8 - South Bay,City of Gardena,61356.505492645,103625482.843283
+111,91016,Low,39.400002,170,Low,31.200001,Moderate,47,Highest,87.5,Lowest,0,0,0,0,Angeles Crest,District 5,SPA 3 - San Gabriel,City of Monrovia,221662.868594442,735305068.879762
+112,93535,Low,39.799999,169,Lowest,11.8,Moderate,46.200001,High,65.199997,Moderate,44.799999,1,1,2,Northeast Antelope Valley,District 5,SPA 1 - Antelope Valley,Unincorporated - Hi Vista,508434.990949954,7116861315.02776
+113,90062,Moderate,40.099998,166,Moderate,47.700001,High,60.599998,High,62.400002,Lowest,0,0,0,0,Vermont Square,District 2,SPA 6 - South,Los Angeles - West Vernon,36684.7977971253,52544735.40216
+114,91201,Moderate,40.099998,166,Moderate,46.599998,Lowest,0,High,74.199997,Moderate,49.799999,1,1,2,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,51870.1085900386,81306133.2101993
+115,91602,Moderate,40.099998,166,Low,33.299999,Highest,93.199997,Moderate,44.099998,Lowest,0,0,0,0,Toluca Lake,District 5,SPA 2 - San Fernando,Los Angeles - North Hollywood,42988.5025162662,58804807.917498
+116,90278,Moderate,41.200001,165,Moderate,53,Low,28,High,65.900002,Low,24,1,0,1,Redondo Beach,District 2,SPA 8 - South Bay,City of Redondo Beach,55422.6851154343,99275522.4837538
+117,90250,Moderate,41.599998,164,Low,34.799999,Moderate,48.400002,High,62.700001,Low,25.799999,2,1,3,Hawthorne,District 2,SPA 8 - South Bay,City of Hawthorne,89575.3878981148,184910230.791209
+118,91354,Moderate,41.900002,163,Low,25.799999,High,67,Low,36.900002,Moderate,43.700001,2,0,2,Santa Clarita,District 5,SPA 2 - San Fernando,City of Santa Clarita,94055.5214060999,209706308.044914
+119,90304,Moderate,42.299999,162,Moderate,57,Moderate,50.200001,Low,38.700001,Low,29,1,0,1,Lennox,District 2,SPA 8 - South Bay,Unincorporated - Lennox,42782.88291452,45935708.1884227
+120,90242,Moderate,42.700001,161,Lowest,8.6000004,High,76.300003,Moderate,55.900002,Low,35.799999,0,1,1,Downey,District 4,SPA 7 - East,City of Downey,70243.7913098235,123979669.103974
+121,90049,Moderate,43,160,Low,36.900002,Low,31.200001,Low,31.5,High,77.400002,3,3,6,Brentwood,District 3,SPA 5 - West,Los Angeles - Brentwood,132308.738170717,426414914.028682
+122,91604,Moderate,43.400002,159,High,60.200001,Moderate,55.900002,Low,34.799999,Low,26.5,1,0,1,Studio City,District 3,SPA 2 - San Fernando,Los Angeles - Studio City,76710.296651673,139593645.344067
+123,91104,Moderate,43.700001,158,Moderate,54.099998,High,74.900002,Lowest,0,Moderate,48.700001,1,1,2,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,57027.701968746,105364813.948473
+124,91387,Moderate,44.099998,157,Moderate,51.599998,Moderate,45.200001,Low,29,Moderate,52,1,3,4,Santa Clarita,District 5,SPA 2 - San Fernando,Unincorporated - Sand Canyon,211760.67477947,843673331.962659
+125,91765,Moderate,44.400002,156,High,62,Low,26.200001,High,67.699997,Low,22.200001,0,1,1,Diamond Bar,District 1,SPA 3 - San Gabriel,City of Diamond Bar,115862.851793581,376268696.039914
+126,90813,Moderate,44.799999,155,Moderate,48.700001,Low,21.9,High,63.799999,Moderate,45.5,1,0,1,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,63418.0851360811,98606470.4019248
+127,91007,Moderate,45.200001,153,Moderate,57.299999,Moderate,52.700001,Lowest,0,High,72,1,2,3,Arcadia,District 5,SPA 3 - San Gabriel,City of Arcadia,70703.2421149929,152036038.843772
+128,91605,Moderate,45.200001,153,Low,39.799999,Lowest,15.1,Moderate,57.299999,High,69.900002,0,4,4,Sun Valley,District 3,SPA 2 - San Fernando,Los Angeles - North Hollywood,70606.0621844485,147374337.789638
+129,91766,Moderate,45.900002,152,Low,35.5,Low,32.599998,Moderate,41.900002,High,72.400002,2,5,7,Pomona,District 1,SPA 3 - San Gabriel,City of Pomona,74285.9949627019,270852912.526617
+130,91406,Moderate,46.200001,151,Low,35.799999,Moderate,53.400002,Moderate,54.799999,Low,38.700001,3,0,3,Van Nuys,District 3,SPA 2 - San Fernando,Los Angeles - Van Nuys,68134.2630217276,189361142.830331
+131,91723,Moderate,46.599998,150,Highest,86.400002,Lowest,0,Lowest,0,Highest,97.800003,2,3,5,Covina,District 1,SPA 3 - San Gabriel,City of Covina,45009.6889336301,64912818.2716107
+132,93551,Moderate,47,149,Low,27.6,High,60.200001,Moderate,49.099998,Moderate,48.400002,2,2,4,Palmdale,District 5,SPA 1 - Antelope Valley,Unincorporated - Leona Valley,335153.538608576,2243156192.41276
+133,90701,Moderate,47.299999,148,High,66.699997,High,71,Moderate,50.200001,Lowest,0,0,0,0,Artesia,District 4,SPA 7 - East,City of Artesia,41707.5256485404,45338292.5214813
+134,90220,Moderate,47.700001,147,Moderate,44.099998,Moderate,58.400002,Low,24.700001,High,61.299999,4,1,5,Compton,District 2,SPA 6 - South,City of Compton,76544.4721967796,189068425.924534
+135,91607,Moderate,48,146,High,65.900002,Low,33.299999,Low,36.200001,Moderate,53.799999,1,2,3,Valley Village,District 5,SPA 2 - San Fernando,Los Angeles - Valley Village,43360.6599519114,69607248.5043718
+136,91303,Moderate,48.400002,145,Moderate,54.5,Moderate,46.599998,Low,35.799999,Moderate,53,1,2,3,Canoga Park,District 3,SPA 2 - San Fernando,Los Angeles - Canoga Park,39830.9296117436,59642312.0249491
+137,90272,Moderate,48.700001,144,Highest,83.199997,High,72.400002,Lowest,0,Low,34.799999,0,1,1,Pacific Palisades,District 3,SPA 5 - West,Los Angeles - Palisades Highlands,140439.536771315,677611522.588659
+138,90044,Moderate,49.099998,143,Moderate,41.900002,Moderate,55.200001,Moderate,45.200001,Moderate,49.099998,2,3,5,Vermont Vista,District 2,SPA 8 - South Bay,Unincorporated - Athens-Westmont,82316.2363159445,139674761.162081
+139,90221,Moderate,49.5,142,Moderate,54.799999,High,70.300003,Lowest,0,High,67,2,1,3,Compton,District 2,SPA 6 - South,City of Compton,84538.4807151578,149356874.660355
+140,91203,Moderate,49.799999,141,High,62.700001,Low,34.099998,Highest,95.699997,Lowest,0,0,0,0,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,23974.7014461425,24744370.050504
+141,90040,Moderate,50.200001,140,Moderate,48,Lowest,0,Moderate,58.799999,Highest,87.099998,0,1,1,Commerce,District 4,SPA 7 - East,City of Commerce,83607.834521863,154837045.270825
+142,90014,Moderate,50.5,139,Highest,98.599998,Highest,95.300003,Lowest,0,Lowest,0,0,0,0,Downtown,District 1,SPA 4 - Metro,Los Angeles - Downtown,14875.296605728,7917528.49380498
+143,90260,Moderate,50.900002,137,Moderate,52,Low,32.299999,Moderate,50.5,Moderate,59.5,1,1,2,Lawndale,District 2,SPA 8 - South Bay,City of Lawndale,49645.7725950132,71920477.0112876
+144,91601,Moderate,50.900002,137,Moderate,55.200001,High,66.699997,Moderate,47.299999,Low,25.1,1,0,1,North Hollywood,District 5,SPA 2 - San Fernando,Los Angeles - North Hollywood,50023.410068859,74137875.9861492
+145,91506,Moderate,51.599998,136,High,60.599998,High,66.300003,High,68.099998,Lowest,0,0,0,0,Burbank,District 5,SPA 2 - San Fernando,City of Burbank,43789.757624069,64866898.2889774
+146,90029,Moderate,52,135,Low,39.099998,Moderate,40.900002,High,60.900002,Moderate,55.900002,1,1,2,East Hollywood,District 1,SPA 4 - Metro,Los Angeles - East Hollywood,35471.1993996537,39819884.7808479
+147,91731,Moderate,52.299999,134,Low,38,High,67.400002,Highest,93.900002,Lowest,0,0,0,0,El Monte,District 1,SPA 3 - San Gabriel,City of El Monte,79394.9812686289,105982863.726067
+148,91724,Moderate,52.700001,133,Low,30.1,Moderate,51.299999,Highest,90.699997,Low,30.799999,1,0,1,Covina,District 1,SPA 3 - San Gabriel,Unincorporated - Covina,117095.311203953,173390009.963132
+149,91207,Moderate,53,131,Low,31.5,Lowest,0,Highest,85.699997,Highest,86,0,1,1,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,56735.0824660971,85227954.4663425
+150,91040,Moderate,53,131,High,61.299999,Lowest,0,Highest,88.5,Moderate,53.400002,0,2,2,Shadow Hills,District 5,SPA 2 - San Fernando,Los Angeles - Shadow Hills,133126.588995576,342948377.642651
+151,90814,Moderate,53.799999,130,Low,24.700001,High,79.199997,Moderate,45.5,Moderate,55.200001,2,0,2,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,48405.9097798127,37504072.5486422
+152,91030,Moderate,54.099998,128,Moderate,49.5,High,64.199997,Moderate,59.900002,Low,31.9,0,1,1,South Pasadena,District 5,SPA 3 - San Gabriel,City of South Pasadena,45255.1506032294,95762080.5460417
+153,91208,Moderate,54.099998,128,Lowest,17.200001,Moderate,52,Moderate,49.799999,Highest,86.400002,0,2,2,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,111242.230015379,216484807.394059
+154,90640,Moderate,54.799999,127,Low,20.1,Moderate,40.099998,High,64.900002,Highest,80.599998,1,6,7,Montebello,District 1,SPA 7 - East,City of Montebello,104064.399693395,237096953.95522
+155,90004,Moderate,55.200001,126,High,63.400002,Low,34.799999,High,63.400002,Moderate,45.200001,1,0,1,Koreatown,District 2,SPA 4 - Metro,Los Angeles - Hancock Park,52471.9044661439,83956985.8175691
+156,90275,Moderate,55.599998,125,Moderate,49.799999,High,63.400002,Highest,94.300003,Lowest,0,0,0,0,Rancho Palos Verdes,District 4,SPA 8 - South Bay,City of Rancho Palos Verdes,206572.397705449,372270525.841064
+157,90066,Moderate,55.900002,124,High,65.599998,High,68.800003,Low,38,Low,37.599998,1,2,3,Mar Vista,District 3,SPA 5 - West,Los Angeles - Mar Vista,69889.1682694885,139512562.131654
+158,90241,Moderate,56.299999,123,Low,34.400002,High,73.5,Low,28.700001,High,74.599998,2,1,3,Downey,District 4,SPA 7 - East,City of Downey,75882.723839181,139469237.040291
+159,91401,Moderate,56.599998,122,Moderate,48.400002,Low,39.099998,Moderate,59.099998,High,66.699997,3,1,4,Valley Glen,District 3,SPA 2 - San Fernando,Los Angeles - Valley Glen,51563.8272959136,99335518.0373145
+160,90503,Moderate,57,121,Moderate,52.700001,Moderate,43.400002,Highest,83.900002,Low,34.099998,0,2,2,Torrance,District 4,SPA 8 - South Bay,City of Torrance,62503.0148098665,163804743.829326
+161,91776,Moderate,57.299999,119,High,73.5,Moderate,49.099998,Low,30.799999,High,60.900002,0,3,3,San Gabriel,District 1,SPA 3 - San Gabriel,City of San Gabriel,61588.0386376406,97127636.9814898
+162,90019,Moderate,57.299999,119,High,69.5,Moderate,53.799999,Low,34.400002,Moderate,56.599998,4,3,7,Mid-Wilshire,District 2,SPA 4 - Metro,Los Angeles - Mid-city,66607.6722553337,106758495.008182
+163,90020,Moderate,58.099998,117,High,67.400002,Moderate,40.5,Low,31.200001,High,75.599998,2,1,3,Koreatown,District 2,SPA 4 - Metro,Los Angeles - Wilshire Center,41832.404812587,32961679.4341374
+164,91350,Moderate,58.099998,117,Low,25.4,Moderate,59.5,Moderate,46.599998,Highest,83.199997,4,1,5,Santa Clarita,District 5,SPA 2 - San Fernando,City of Santa Clarita,151942.745706187,388765537.87197
+165,90404,Moderate,58.799999,115,High,76.300003,High,60.900002,Moderate,42.299999,Low,35.5,1,0,1,Santa Monica,District 3,SPA 5 - West,City of Santa Monica,42483.1134703433,53047331.4965899
+166,90254,Moderate,58.799999,115,Low,23.700001,Highest,91.800003,Moderate,44.799999,Moderate,54.799999,2,0,2,Hermosa Beach,District 2,SPA 8 - South Bay,City of Hermosa Beach,28450.0781055284,40252313.9093333
+167,90005,Moderate,59.5,113,Moderate,53.799999,Moderate,54.099998,Moderate,43,High,65.199997,1,2,3,Koreatown,District 2,SPA 4 - Metro,Los Angeles - Koreatown,88978.0231878326,36885822.5686964
+168,91361,Moderate,59.5,113,High,67.699997,High,63.099998,Lowest,0,Highest,85.300003,2,0,2,Westlake Village,District 3,SPA 2 - San Fernando,City of Westlake Village,63085.7981228671,147148268.985062
+169,90710,High,60.200001,112,Moderate,50.200001,Highest,80.599998,Highest,87.099998,Lowest,0,0,0,0,Harbor City,District 4,SPA 8 - South Bay,Los Angeles - Harbor City,47358.7601724434,74043914.6097858
+170,90027,High,60.599998,111,Highest,86,Moderate,44.099998,Lowest,0,Highest,88.5,3,7,10,Griffith Park,District 5,SPA 4 - Metro,Los Angeles - Los Feliz,80042.7116341266,240682434.688991
+171,90755,High,60.900002,105,Lowest,10.4,High,69.199997,Highest,90,Moderate,50.5,0,1,1,Signal Hill,District 4,SPA 7 - East,City of Signal Hill,56381.9551998933,61488302.7755253
+172,91316,High,60.900002,105,High,72,Highest,83.199997,Low,37.299999,Low,27.6,1,0,1,Encino,District 3,SPA 2 - San Fernando,Los Angeles - Encino,63843.0898415419,158922433.174344
+173,91010,High,60.900002,105,Low,30.799999,Low,39.400002,Moderate,59.5,Highest,90.300003,1,2,3,Duarte,District 5,SPA 3 - San Gabriel,City of Duarte,138869.087319277,301063751.318045
+174,90810,High,60.900002,105,Moderate,40.099998,Moderate,59.900002,Highest,81,Low,39.099998,1,0,1,Carson,District 4,SPA 8 - South Bay,City of Long Beach,81539.3149669087,192310133.847766
+175,91505,High,60.900002,105,High,67,Moderate,57.299999,Moderate,52.700001,Moderate,43,2,0,2,Burbank,District 5,SPA 2 - San Fernando,City of Burbank,93419.6992489237,143159319.492343
+176,91773,High,60.900002,105,Moderate,47,Low,20.1,High,77.800003,High,75.300003,3,1,4,San Dimas,District 5,SPA 3 - San Gabriel,City of San Dimas,172742.686074461,422199694.501838
+177,90277,High,63.099998,103,High,68.099998,Moderate,51.599998,Low,32.299999,High,71,5,1,6,Redondo Beach,District 2,SPA 8 - South Bay,City of Redondo Beach,57802.9266653722,102511923.759025
+178,90704,High,63.099998,103,Low,39.400002,Highest,84.199997,Lowest,0,Highest,99.300003,0,2,2,Unincorporated Catalina Island,,,,672527.599145823,3661301914.82274
+179,90804,High,63.799999,102,Moderate,43.400002,High,78.099998,Moderate,43.700001,Moderate,59.900002,1,2,3,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,46944.6175406336,59523307.8262896
+180,91750,High,64.199997,101,High,61.599998,Moderate,43,Moderate,49.5,High,71.699997,3,0,3,Angeles Crest,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,347602.197617408,2170920248.02462
+181,91006,High,64.5,100,Moderate,58.099998,Moderate,53,Moderate,50.900002,High,65.900002,1,1,2,Arcadia,District 5,SPA 3 - San Gabriel,City of Arcadia,142398.598314508,185775208.133845
+182,91367,High,64.900002,99,High,72.400002,Moderate,42.299999,Moderate,52.299999,High,64.5,5,2,7,Woodland Hills,District 3,SPA 2 - San Fernando,Los Angeles - Woodland Hills,87120.8609264851,216470700.917013
+183,90038,High,65.199997,98,High,77.099998,Highest,81.400002,Lowest,0,High,73.5,1,1,2,Hollywood,District 3,SPA 4 - Metro,Los Angeles - Melrose,39784.5617851595,42456308.7036974
+184,90034,High,65.599998,97,Moderate,45.900002,High,73.800003,Moderate,48.400002,High,64.199997,3,2,5,Palms,District 3,SPA 5 - West,Los Angeles - Beverlywood,56671.5790495283,86401318.4321115
+185,90041,High,65.900002,96,High,60.900002,High,68.099998,High,76,Low,28.299999,0,1,1,Eagle Rock,District 1,SPA 4 - Metro,Los Angeles - Eagle Rock,68444.471104973,98934431.0075139
+186,90806,High,66.300003,95,Moderate,49.099998,Low,36.599998,High,71.300003,High,76.699997,1,2,3,Long Beach,District 4,SPA 7 - East,City of Signal Hill,96001.4683000638,125678957.359983
+187,91011,High,66.699997,94,Highest,83.900002,Highest,87.099998,Lowest,0,High,64.900002,1,1,2,Angeles Crest,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,241563.994069932,837321677.449847
+188,90703,High,67,93,High,70.599998,Lowest,16.5,Highest,86,High,63.099998,2,2,4,Cerritos,District 4,SPA 7 - East,City of Cerritos,119688.68750034,246427005.067751
+189,91504,High,67.400002,92,Moderate,53.400002,Low,23.700001,High,78.900002,Highest,82.800003,2,2,4,Burbank,District 5,SPA 2 - San Fernando,City of Burbank,57507.8142964331,131446501.902604
+190,91423,High,67.699997,91,Moderate,59.5,High,74.599998,High,79.599998,Low,26.200001,1,0,1,Sherman Oaks,District 3,SPA 2 - San Fernando,Los Angeles - Sherman Oaks,81059.1754885023,113253280.910961
+191,90016,High,68.099998,90,Highest,82.400002,High,64.900002,High,69.199997,Low,23.700001,1,0,1,West Adams,District 2,SPA 6 - South,Los Angeles - Alsace,57294.1505628974,103266644.726716
+192,91301,High,68.5,89,Highest,84.900002,Highest,83.5,Moderate,40.900002,Low,31.5,1,0,1,Unincorporated Santa Monica Mountains,District 3,SPA 2 - San Fernando,Unincorporated - Santa Monica Mountains,140294.858971531,722941478.186823
+193,91024,High,68.800003,88,Low,28.700001,Moderate,44.400002,Highest,84.599998,Highest,83.5,2,1,3,Angeles Crest,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,266703.425335691,1553103635.01143
+194,90712,High,69.199997,87,High,70.300003,Highest,92.5,Moderate,53,Low,27.200001,1,0,1,Lakewood,District 4,SPA 7 - East,City of Lakewood,61873.3522450067,115374072.61873
+195,90024,High,69.5,86,Moderate,58.799999,High,69.5,Moderate,43.400002,High,73.800003,4,2,6,Westwood,District 3,SPA 5 - West,Los Angeles - Westwood,59099.3772928073,81821019.763609
+196,90022,High,69.900002,85,Moderate,42.700001,Low,27.200001,Highest,94.599998,Highest,81.699997,4,2,6,East Los Angeles,District 1,SPA 7 - East,Unincorporated - East Los Angeles,60796.0229121156,118833002.782942
+197,91324,High,70.300003,84,Moderate,52.299999,Moderate,59.099998,Highest,81.699997,Moderate,54.099998,0,2,2,Northridge,District 3,SPA 2 - San Fernando,Los Angeles - Northridge,63449.6194787244,121478928.826893
+198,90405,High,70.599998,83,High,79.199997,Highest,93.5,Lowest,0,High,76,2,1,3,Santa Monica,District 3,SPA 5 - West,City of Santa Monica,45710.3703212498,77411803.7192945
+199,90731,High,71,81,High,69.199997,Moderate,57.700001,High,62,High,60.599998,2,1,3,San Pedro,District 4,SPA 8 - South Bay,Los Angeles - San Pedro,134529.177718946,356036488.196156
+200,91345,High,71,81,High,72.800003,Low,29.4,High,79.900002,High,67.400002,2,1,3,Mission Hills,District 3,SPA 2 - San Fernando,Los Angeles - Mission Hills,43365.1049281996,90791245.0681105
+201,90033,High,71.699997,80,Moderate,41.599998,High,62,High,61.599998,Highest,86.699997,1,3,4,Boyle Heights,District 1,SPA 4 - Metro,Los Angeles - Boyle Heights,45641.6062019296,85104898.4493227
+202,90018,High,72,78,Highest,81.400002,Moderate,50.900002,High,68.800003,Moderate,51.599998,3,0,3,Jefferson Park,District 2,SPA 6 - South,Los Angeles - Exposition Park,44601.280877999,83025083.766319
+203,90502,High,72,78,Low,37.299999,Highest,92.800003,Highest,82.400002,Moderate,40.099998,1,0,1,West Carson,District 2,SPA 8 - South Bay,Unincorporated - West Carson,42751.3751218491,63151365.8726233
+204,90290,High,72.800003,76,Low,22.200001,Highest,87.800003,High,78.099998,High,65.599998,0,1,1,Topanga,District 3,SPA 2 - San Fernando,Unincorporated - Santa Monica Mountains,134585.681594088,521684428.693911
+205,91205,High,72.800003,76,High,75.599998,High,64.5,Moderate,45.900002,High,67.699997,2,1,3,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,45915.0144662761,60779506.4749612
+206,91355,High,73.5,75,Moderate,43.700001,Highest,84.900002,Low,35.5,Highest,95.699997,0,7,7,Unincorporated Santa Susana Mountains,District 5,SPA 2 - San Fernando,City of Santa Clarita,158179.719964158,401961223.612454
+207,90301,High,73.800003,74,High,66.300003,High,79.599998,Moderate,46.200001,High,68.099998,2,3,5,Inglewood,District 2,SPA 8 - South Bay,City of Inglewood,56522.2106163429,95595484.4427941
+208,90403,High,74.199997,73,Highest,88.900002,Moderate,55.599998,Moderate,41.200001,High,74.900002,5,0,5,Santa Monica,District 3,SPA 5 - West,City of Santa Monica,39140.7145021666,38720763.2649862
+209,91108,High,74.599998,71,Highest,81.699997,Low,38,Highest,96.099998,Moderate,46.599998,0,1,1,San Marino,District 5,SPA 3 - San Gabriel,City of San Marino,58145.7945958966,105907286.291931
+210,90265,High,74.599998,71,Highest,87.800003,High,63.799999,Moderate,44.400002,High,66.300003,1,2,3,Unincorporated Santa Monica Mountains,District 3,SPA 5 - West,Unincorporated - Santa Monica Mountains,351519.388354393,2262557977.59639
+211,90035,High,75.300003,70,Highest,82.099998,Low,36.200001,Moderate,55.599998,Highest,88.900002,4,4,8,Pico-Robertson,District 3,SPA 5 - West,Los Angeles - Crestview,43983.589760164,57209201.1256745
+212,90292,High,75.599998,69,High,68.5,Moderate,52.299999,High,61.299999,Highest,84.199997,1,3,4,Marina del Rey,District 2,SPA 5 - West,,37777.7155443995,68588853.1961325
+213,90602,High,76,68,High,78.5,Low,24.700001,High,72.400002,Highest,91.400002,2,1,3,Whittier,District 4,SPA 7 - East,City of Whittier,78937.6693760455,73226430.6000552
+214,91001,High,76.300003,67,High,77.400002,Moderate,58.799999,High,60.599998,High,73.099998,2,2,4,Angeles Crest,District 5,SPA 3 - San Gabriel,Unincorporated - Angeles National Forest,189954.461770252,900049388.587714
+215,91754,High,76.699997,66,Lowest,17.9,High,71.699997,Highest,86.699997,Highest,95,3,5,8,Monterey Park,District 1,SPA 3 - San Gabriel,City of Monterey Park,59277.1258979526,126477813.646604
+216,90059,High,77.099998,65,High,62.400002,High,67.699997,High,65.599998,High,77.099998,1,2,3,Willowbrook,District 2,SPA 6 - South,Unincorporated - Willowbrook,66238.9555466506,93135788.4056572
+217,90815,High,77.400002,63,High,71,Moderate,56.599998,Highest,97.800003,Moderate,47.700001,2,1,3,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,88367.9521662882,194984863.767863
+218,90302,High,77.400002,63,High,73.099998,Highest,83.900002,Highest,88.199997,Low,28,1,0,1,Inglewood,District 2,SPA 8 - South Bay,City of Inglewood,38898.6670281124,51768033.4704296
+219,90210,High,78.099998,62,Highest,95.699997,High,77.400002,High,66.300003,Low,36.599998,0,1,1,Beverly Crest,District 3,SPA 5 - West,Los Angeles - Beverly Crest,107987.144183865,302058239.924216
+220,90025,High,78.5,61,Moderate,50.5,Highest,81,High,74.599998,High,70.599998,6,2,8,Sawtelle,District 3,SPA 5 - West,Los Angeles - West Los Angeles,61701.2089148276,69502042.0433426
+221,90026,High,78.900002,60,Moderate,59.900002,High,71.300003,High,67.400002,High,79.599998,4,4,8,Echo Park,District 1,SPA 4 - Metro,Los Angeles - Silverlake,65508.2471125357,113989395.757075
+222,90245,High,79.199997,59,High,78.099998,Highest,87.5,High,71.699997,Moderate,41.200001,1,0,1,El Segundo,District 2,SPA 8 - South Bay,City of El Segundo,57324.7889528,152778261.030213
+223,90501,High,79.599998,58,Moderate,56.599998,High,76,High,76.300003,High,69.5,3,1,4,Torrance,District 4,SPA 8 - South Bay,City of Torrance,71750.0806289794,157273085.445101
+224,90036,High,79.900002,57,Highest,88.5,High,72.800003,Highest,80.300003,Low,38.400002,1,1,2,Mid-Wilshire,District 3,SPA 4 - Metro,Los Angeles - Melrose,41354.9863205296,69593177.3525022
+225,91789,Highest,80.300003,56,High,79.900002,High,61.599998,High,70.300003,High,69.199997,4,1,5,Walnut,District 1,SPA 3 - San Gabriel,City of Walnut,142110.250983345,440377892.750862
+226,90802,Highest,80.599998,54,High,71.300003,Highest,82.400002,High,73.5,Moderate,54.5,3,0,3,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,3122.78039608566,485596.965580848
+227,90802,Highest,80.599998,54,High,71.300003,Highest,82.400002,High,73.5,Moderate,54.5,3,0,3,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,181881.295675432,168434713.226322
+228,90013,Highest,80.599998,54,Highest,89.599998,Highest,94.599998,Highest,97.5,Lowest,0,0,0,0,Downtown,District 1,SPA 4 - Metro,Los Angeles - Little Tokyo,27153.2762413713,18667351.2943849
+229,90505,Highest,81.400002,53,High,74.599998,High,65.900002,Moderate,47,Highest,95.300003,4,5,9,Torrance,District 4,SPA 8 - South Bay,City of Torrance,68803.6661541665,163049851.703502
+230,90803,Highest,81.699997,52,High,73.800003,Moderate,57,High,73.800003,Highest,81.400002,2,4,6,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,3729.23396489111,655606.349820665
+231,90803,Highest,81.699997,52,High,73.800003,Moderate,57,High,73.800003,Highest,81.400002,2,4,6,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,3207.85305068074,529034.739429297
+232,90803,Highest,81.699997,52,High,73.800003,Moderate,57,High,73.800003,Highest,81.400002,2,4,6,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,3263.75488309891,569833.733950358
+233,90803,Highest,81.699997,52,High,73.800003,Moderate,57,High,73.800003,Highest,81.400002,2,4,6,Long Beach,District 4,SPA 8 - South Bay,,68577.1494616939,137033947.250624
+234,90046,Highest,82.099998,50,High,69.900002,High,78.5,Moderate,51.299999,Highest,87.5,3,6,9,Hollywood Hills West,District 3,SPA 4 - Metro,Los Angeles - Hollywood Hills,86575.3895387088,157746583.230108
+235,90601,Highest,82.099998,50,High,76,Moderate,45.900002,Highest,80.599998,Highest,84.599998,3,3,6,North Whittier,District 4,SPA 7 - East,Unincorporated - Whittier,136418.705515838,272864319.881311
+236,90077,Highest,82.800003,49,Moderate,55.900002,Highest,91.400002,Moderate,55.200001,Highest,84.900002,3,1,4,Bel-Air,District 3,SPA 5 - West,Los Angeles - Bel Air,90139.7215542774,201734589.695703
+237,91362,Highest,83.199997,48,Highest,90.300003,Highest,98.199997,Highest,98.900002,Lowest,0,0,0,0,Westlake Village,District 3,SPA 2 - San Fernando,City of Westlake Village,24702.4155027531,28341046.9163064
+238,90249,Highest,83.5,46,High,63.799999,Highest,85.300003,High,76.699997,High,63.799999,1,0,1,Gardena,District 2,SPA 8 - South Bay,City of Gardena,48262.3552188694,84357433.9404923
+239,90746,Highest,83.5,46,Highest,96.099998,Highest,95.699997,High,68.5,Low,29.4,1,0,1,Carson,District 2,SPA 8 - South Bay,City of Carson,82396.5196594337,142243783.918844
+240,90266,Highest,84.199997,45,High,78.900002,High,77.800003,High,69.900002,High,63.400002,4,1,5,Manhattan Beach,District 2,SPA 8 - South Bay,City of Manhattan Beach,47964.4233541399,108935848.881314
+241,90232,Highest,84.599998,44,High,64.900002,Highest,90.300003,Highest,91,Moderate,44.400002,1,0,1,Culver City,District 2,SPA 5 - West,City of Culver City,57013.6034972666,62235282.2324351
+242,90401,Highest,84.900002,43,Highest,97.5,Highest,99.300003,Highest,95.300003,Lowest,0,0,0,0,Santa Monica,District 3,SPA 5 - West,City of Santa Monica,27719.3855782896,23522673.4744454
+243,91103,Highest,85.300003,42,Moderate,57.700001,Highest,85.699997,Moderate,56.299999,Highest,93.900002,2,3,5,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,80603.3595799684,142110304.251401
+244,90043,Highest,85.699997,41,Highest,91.400002,Highest,86.400002,Highest,84.199997,Low,34.400002,1,1,2,Hyde Park,District 2,SPA 6 - South,Los Angeles - Hyde Park,57259.13929397,113286793.107389
+245,90071,Highest,86,40,Highest,100,Lowest,0,Highest,100,Highest,100,0,1,1,Downtown,District 1,SPA 4 - Metro,Los Angeles - Downtown,8750.62176426486,4040734.44871794
+246,91356,Highest,86.400002,39,Moderate,50.900002,High,77.099998,Highest,92.099998,Highest,82.099998,3,2,5,Tarzana,District 3,SPA 2 - San Fernando,Los Angeles - Tarzana,72629.8315253699,208898492.456475
+247,91364,Highest,86.699997,38,Highest,80.300003,High,73.099998,High,77.099998,High,72.800003,4,1,5,Woodland Hills,District 3,SPA 2 - San Fernando,Los Angeles - Woodland Hills,75118.9626295904,200193590.239641
+248,90274,Highest,87.099998,36,Highest,91.800003,High,75.599998,Moderate,58.099998,High,78.900002,1,3,4,Palos Verdes Estates,District 4,SPA 8 - South Bay,City of Rancho Palos Verdes,185439.001566414,334971646.293883
+249,91107,Highest,87.099998,36,Highest,88.199997,High,79.900002,High,77.400002,Moderate,58.799999,2,2,4,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,82825.357925431,224566107.562261
+250,90057,Highest,87.800003,35,High,77.800003,Moderate,54.799999,Highest,86.400002,Highest,85.699997,1,5,6,Westlake,District 1,SPA 4 - Metro,Los Angeles - Westlake,26195.1186677012,25909149.91578
+251,91711,Highest,88.199997,34,Highest,92.800003,Highest,92.099998,High,63.099998,High,62.700001,4,1,5,Claremont,District 5,SPA 3 - San Gabriel,City of Claremont,151110.19945989,523420982.596145
+252,90012,Highest,88.5,33,High,74.199997,High,75.300003,Highest,92.800003,High,76.300003,1,3,4,Elysian Park,District 1,SPA 4 - Metro,Los Angeles - Chinatown,61817.4753468642,96562177.1017255
+253,90031,Highest,88.900002,31,Highest,98.199997,High,69.900002,High,72.800003,High,78.5,2,1,3,Lincoln Heights,District 1,SPA 4 - Metro,Los Angeles - Lincoln Heights,79588.4207110574,106239064.237641
+254,90248,Highest,88.900002,31,Highest,93.5,Moderate,41.900002,Highest,89.199997,Highest,94.599998,1,1,2,Harbor Gateway,District 2,SPA 8 - South Bay,Los Angeles - Harbor Gateway,92105.6762254809,130974632.499294
+255,91403,Highest,89.599998,30,Highest,84.599998,High,76.699997,High,70.599998,Highest,87.800003,4,4,8,Sherman Oaks,District 3,SPA 2 - San Fernando,Los Angeles - Sherman Oaks,68597.9579116221,96843701.6967971
+256,90069,Highest,90,29,Highest,94.300003,Moderate,58.099998,High,75.300003,Highest,93.5,3,3,6,Hollywood Hills West,District 3,SPA 4 - Metro,Los Angeles - Hollywood,45167.3318651253,60101447.5177421
+257,91311,Highest,90.300003,28,High,79.599998,Highest,84.599998,Highest,83.199997,High,74.199997,1,2,3,Unincorporated Santa Susana Mountains,District 5,SPA 2 - San Fernando,Unincorporated - Twin Lakes/Oat Mountain,152159.261095178,633719574.129702
+258,90047,Highest,90.699997,27,Highest,83.5,Highest,88.900002,Highest,82.800003,High,70.300003,5,0,5,Gramercy Park,District 2,SPA 6 - South,Los Angeles - Gramercy Place,77331.6013958887,134213075.261287
+259,91204,Highest,91,26,High,76.699997,Highest,82.099998,Highest,82.099998,Highest,89.599998,2,2,4,Glendale,District 5,SPA 2 - San Fernando,City of Glendale,39174.6705417332,31448364.3114518
+260,90305,Highest,91.400002,25,Highest,96.400002,Highest,97.800003,Moderate,54.5,Highest,82.400002,4,0,4,Inglewood,District 2,SPA 8 - South Bay,City of Inglewood,38633.6196936195,45367406.7341835
+261,90045,Highest,91.800003,24,Highest,93.199997,Highest,88.199997,High,73.099998,High,79.199997,5,2,7,Westchester,District 2,SPA 5 - West,Los Angeles - Westchester,98726.6078685911,305820086.39678
+262,90028,Highest,92.099998,23,Highest,86.699997,High,65.199997,Highest,85.300003,Highest,97.5,5,6,11,Hollywood,District 3,SPA 4 - Metro,Los Angeles - Hollywood,40223.5261790884,43287317.8358192
+263,93534,Highest,92.5,22,Highest,82.800003,Highest,86.699997,Highest,87.800003,High,77.800003,5,3,8,Lancaster,District 5,SPA 1 - Antelope Valley,City of Lancaster,206885.854974629,614822735.876651
+264,91302,Highest,92.800003,21,High,75.300003,Highest,90,Highest,81.400002,Highest,89.199997,1,6,7,Calabasas,District 3,SPA 2 - San Fernando,City of Calabasas,199345.902777686,831699738.632167
+265,90048,Highest,93.199997,19,Highest,92.5,High,62.400002,Highest,84.900002,Highest,98.900002,2,9,11,Beverly Grove,District 3,SPA 4 - Metro,Los Angeles - Carthay,42281.1687627168,51266844.2486852
+266,93532,Highest,93.199997,19,High,74.900002,Highest,95,Highest,88.900002,High,79.900002,1,0,1,Ridge Route,District 5,SPA 2 - San Fernando,Unincorporated - Castaic,456162.764371736,3140228185.72119
+267,90064,Highest,93.900002,18,Highest,87.5,Highest,94.300003,Highest,91.400002,High,68.5,1,3,4,Cheviot Hills,District 3,SPA 5 - West,Los Angeles - Rancho Park,65690.7924429597,110414380.470323
+268,90291,Highest,94.300003,17,Highest,81,Highest,90.699997,High,78.5,Highest,92.800003,5,2,7,Venice,District 3,SPA 5 - West,Los Angeles - Venice,38370.548446472,65626620.3561738
+269,91105,Highest,94.599998,16,Highest,96.800003,Highest,88.5,High,60.200001,Highest,98.599998,2,4,6,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,64802.1338465087,108704252.481199
+270,90056,Highest,95,15,Highest,97.800003,Highest,93.900002,Highest,97.099998,Moderate,56.299999,1,0,1,Ladera Heights,District 2,SPA 5 - West,Unincorporated - Ladera Heights,37127.5597523795,43781566.7560549
+271,91436,Highest,95.300003,14,Highest,90.699997,Highest,89.599998,High,74.900002,Highest,93.199997,3,3,6,Encino,District 3,SPA 2 - San Fernando,Los Angeles - Encino,77816.5450556883,177689082.611737
+272,90015,Highest,95.699997,13,Highest,95,High,70.599998,Highest,92.5,Highest,94.300003,0,3,3,Downtown,District 1,SPA 4 - Metro,Los Angeles - Pico-Union,37381.5901125239,46602634.1708267
+273,91502,Highest,96.099998,12,Highest,90,Highest,86,Highest,83.5,Highest,96.800003,3,1,4,Burbank,District 5,SPA 2 - San Fernando,City of Burbank,35228.8518159665,39700632.4620193
+274,90807,Highest,96.400002,11,Highest,85.699997,Highest,96.800003,Highest,93.5,Highest,83.900002,7,0,7,Long Beach,District 4,SPA 8 - South Bay,City of Long Beach,78510.5792598376,135399657.320683
+275,90007,Highest,96.800003,10,Highest,85.300003,Highest,91,Highest,93.199997,Highest,91.800003,2,4,6,University Park,District 2,SPA 6 - South,Los Angeles - University Park,57886.2780484207,68596101.2526554
+276,90008,Highest,97.099998,9,Highest,92.099998,Highest,89.199997,Highest,89.599998,Highest,90.699997,4,2,6,Baldwin Hills/Crenshaw,District 2,SPA 6 - South,Los Angeles - Baldwin Hills,59093.4243799625,106644588.398366
+277,90230,Highest,97.5,8,Highest,93.900002,Highest,81.699997,Highest,91.800003,Highest,96.099998,5,3,8,Culver City,District 2,SPA 5 - West,City of Culver City,66927.6354134175,120572558.703915
+278,90212,Highest,97.800003,7,Highest,87.099998,Highest,96.400002,Highest,96.800003,Highest,88.199997,4,0,4,Beverly Hills,District 3,SPA 5 - West,City of Beverly Hills,25920.4889923834,25163965.8946907
+279,90211,Highest,98.199997,6,Highest,94.599998,Highest,97.099998,Highest,95,Highest,92.5,0,3,3,Beverly Hills,District 3,SPA 5 - West,City of Beverly Hills,24391.0465868987,19584949.3869529
+280,90017,Highest,98.599998,5,Highest,97.099998,Highest,97.5,Highest,96.400002,Highest,92.099998,3,2,5,Westlake,District 1,SPA 4 - Metro,Los Angeles - Westlake,24579.7301056985,19807349.0341024
+281,91101,Highest,98.900002,4,Highest,95.300003,Highest,96.099998,Highest,98.199997,Highest,98.199997,10,1,11,Pasadena,District 5,SPA 3 - San Gabriel,City of Pasadena,34802.8166152408,34958605.1069387
+282,90021,Highest,99.300003,3,Highest,98.900002,Highest,98.900002,Highest,98.599998,Highest,97.099998,1,0,1,Downtown,District 1,SPA 4 - Metro,Los Angeles - Wholesale District,38396.7725754853,57382629.1703458
+283,90010,Highest,99.599998,2,Highest,99.599998,Highest,99.599998,Highest,99.300003,Highest,96.400002,2,1,3,Koreatown,District 2,SPA 4 - Metro,Los Angeles - Wilshire Center,42372.0149934677,4555115.55759957
+284,90067,Highest,100,1,Highest,99.300003,Highest,100,Highest,99.599998,Highest,99.599998,1,0,1,Century City,District 3,SPA 5 - West,Los Angeles - Century City,15765.2833815915,10353518.6865909
