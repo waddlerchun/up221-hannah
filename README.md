@@ -2,7 +2,7 @@
 My name is Hannah Chun, and this is my first year in the MURP program. My concentration is environmental analysis and policy, and I am specifically interested in learning about how communities can adapt to extreme heat and drought. My background is in civil and environmental engineering. I seek to approach climate-related issues from an engineering and social justice lens. 
 
 ## Course Description
-Students will gain a basic understanding of Python-based spatial data science, and how to apply it to visualizing urban issues. 
+Students will gain a basic understanding of Python-based spatial data science, and how to apply it to visualize urban issues. 
 
 ## Course Objectives
 - Learn the basic principles of data science
